@@ -8,6 +8,7 @@ public class Employee {
 	private int id;
 	private String name;
 	private double salary;
+
 	
 	public Employee() {
 		System.out.println("No args Employee constructor");
