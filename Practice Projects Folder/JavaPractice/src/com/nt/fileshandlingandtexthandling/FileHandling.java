@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class FileHandling {
 
-	//we can use // or \ for separaters
+	//we can use / or \\ for separaters
 	public static void main(String[] args) throws IOException {
 		//File f=new File("F:\\TestFiles\\resume.txt");		//absolute path inside folder
 		//File f=new File("./resume.txt");	//relative path inside eclipse
@@ -22,7 +22,7 @@ public class FileHandling {
 		//System.out.println(f.mkdirs());
 //		if(!f.exists()) {
 //			f.delete();
-//			System.out.println(f.createNewFile());
+//			System.out.println(f..createNewFile());
 //		}		
 		//System.out.println(f.delete());
 		//System.out.println(f.exists());
