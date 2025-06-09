@@ -1,10 +1,12 @@
-package com.nt.java8features;
+package com.nt.interfacechangeslambda;
 
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 
+
+//Lambda corresonds to an interface and specifically abstract method present in interface.
 public class LambdaPractice {
 
 	String s="nikhil";

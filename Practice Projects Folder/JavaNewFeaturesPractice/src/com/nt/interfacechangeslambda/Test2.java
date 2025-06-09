@@ -1,4 +1,4 @@
-package com.nt.java8features;
+package com.nt.interfacechangeslambda;
 
 @FunctionalInterface
 public interface Test2 {

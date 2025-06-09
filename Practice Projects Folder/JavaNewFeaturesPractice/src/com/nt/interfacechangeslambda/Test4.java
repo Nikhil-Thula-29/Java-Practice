@@ -1,4 +1,4 @@
-package com.nt.java8features;
+package com.nt.interfacechangeslambda;
 
 public interface Test4 {
 

@@ -1,4 +1,4 @@
-package com.nt.java8features;
+package com.nt.interfacechangeslambda;
 
 public class Example1 implements Test {
 
